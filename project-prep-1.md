@@ -1,6 +1,6 @@
 # PROJECT PREP #1
 ### Team Members
-	```javascript
+```javascript
 {
   "member1": "Anthony Cunningham",
   "member2": "Chester Lee Coloma",
